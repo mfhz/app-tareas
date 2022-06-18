@@ -1,0 +1,31 @@
+.caontainer {
+    .row{
+
+        .col-lg-8 {
+
+            .form-control {
+                text-align: center;
+            }
+
+            .form-control-lg {
+                font-size: 1.8rem;
+            }
+        }
+
+        .col-lg-6 {
+
+            .list-group {
+
+                .list-group-item {
+
+                    .cursor {
+                        cursor: pointer;
+                    }
+                }
+            }
+
+        }
+
+        
+    }
+}
